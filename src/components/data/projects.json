@@ -1,0 +1,31 @@
+[
+  {
+    "key": 1,
+    "title": "Expense-Tracker-React ",
+    "imageSrc": "https://private-user-images.githubusercontent.com/141568159/479805948-0e672cb4-8802-4e7b-b911-9d1b35578db0.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTYyNjU4NzUsIm5iZiI6MTc1NjI2NTU3NSwicGF0aCI6Ii8xNDE1NjgxNTkvNDc5ODA1OTQ4LTBlNjcyY2I0LTg4MDItNGU3Yi1iOTExLTlkMWIzNTU3OGRiMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwODI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDgyN1QwMzMyNTVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yNmQ5MDMyZmRhMWY4MTM2NGRiMzBlZTY1ZTIyNDU5M2M0MTk5NWI4ZDYwMDgwZjA3MzllZmMwYjQ1YjFhZDVmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.QAOIllgJPqTc8w_qcCkGWFS4MtrVh9zRBUbISsnWXr0",
+    "description": "Built a React.js-based Expense Tracker application that helps users manage their finances by tracking income, expenses, and overall balance in real-time. Designed a clean and responsive interface using Tailwind CSS/Bootstrap, and implemented state management with React Hooks for smooth updates.",
+   "ViewCode": "https://github.com/imsanjay86/Expense-Tracker"
+  },
+  {
+    "key": 2,
+    "title": "React-Live-Bitcoin-Dashboard",
+    "imageSrc": "https://private-user-images.githubusercontent.com/141568159/482493760-be8d77e5-4e7e-4c35-aca1-79980239b7a9.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTYyNzIyMjIsIm5iZiI6MTc1NjI3MTkyMiwicGF0aCI6Ii8xNDE1NjgxNTkvNDgyNDkzNzYwLWJlOGQ3N2U1LTRlN2UtNGMzNS1hY2ExLTc5OTgwMjM5YjdhOS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwODI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDgyN1QwNTE4NDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04ZGY2ODg3MzllYzQ0ZjI1NDgyOGQ3MGNmZTE2NDM1ZTAwNDUzYjA4OTkzNWQzMmRmOTE1ZjQ2YzY1ODBjMmQxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.Bau7TVSGpzSOqLfEGObRhLalx5rxOkpVS-LwUgEN0Ts",
+    "description": "Built a real-time cryptocurrency dashboard using React.js that displays live Bitcoin price updates, market trends. Integrated with a crypto API  to fetch real-time data and used Recharts/Chart.js for interactive data visualization. Designed with Tailwind CSS for a modern and responsive UI.",
+   "ViewCode": "https://github.com/imsanjay86/React-Live-Bitcoin-Dashboard"
+  },
+  {
+    "key": 3,
+    "title": "URL-Shortener-Next.js",
+    "imageSrc": "https://private-user-images.githubusercontent.com/141568159/482493052-b6ad872f-d039-47ea-9dbf-4b97e2139607.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTYyNzIwNTUsIm5iZiI6MTc1NjI3MTc1NSwicGF0aCI6Ii8xNDE1NjgxNTkvNDgyNDkzMDUyLWI2YWQ4NzJmLWQwMzktNDdlYS05ZGJmLTRiOTdlMjEzOTYwNy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwODI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDgyN1QwNTE1NTVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05YjAxOGU0YmM5ODkyMGI0ODFmYmIxNzYwNDk5MjU4YmZlYTFkZmNiYWRmNjI2Nzk0OGU0NDZjOGY1MGEwZDVhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.l2zZEOxACrgcUYqqCwPidUAK4GCQyzlzqmU-E5fntCs",
+    "description": "This is a project URL shortener application using Next.js, enabling users to convert long URLs into clean, shareable short links. Implemented backend API routes for link generation and redirection, integrated a database Mongo db for persistent storage, and designed a responsive frontend with Tailwind CSS.",
+    "ViewCode": "https://github.com/imsanjay86/URL-Shortener-Next.js"
+
+  },
+  {
+    "key": 4,
+    "title": "Responsive-Blog-Website",
+    "imageSrc": "https://private-user-images.githubusercontent.com/141568159/378076660-84a8429d-9755-4a76-ae40-239425860d6c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTYyNjU5NTEsIm5iZiI6MTc1NjI2NTY1MSwicGF0aCI6Ii8xNDE1NjgxNTkvMzc4MDc2NjYwLTg0YTg0MjlkLTk3NTUtNGE3Ni1hZTQwLTIzOTQyNTg2MGQ2Yy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwODI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDgyN1QwMzM0MTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iY2FmZThjZDliZTZhYzc3ZWU2ODMxMTA2NjVjYjU4NDRkNGYzMDEyYmYwN2RmNWRjODJjZmFhNmYyYWQ4ZmJlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.-GYVHYaohW5qvMS3L-n2HyiPtr5Wgz5SfV_mpchAeGo",
+    "description": "An engaging web development project by creating a dynamic blog website using HTML, CSS, and JavaScript. I'd like to emphasize the significance of responsive design. In the project things that are used like CSS flexbox and grid layouts, media queries, fluid design that ensures the website's content and layout adjust according to the screen size.",
+   "ViewCode": "https://github.com/imsanjay86/Responsive-Blog-Website"
+  }
+]

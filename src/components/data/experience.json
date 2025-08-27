@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "role": "Empreyam Codecraft Internship",
+    "organisation": "Empreyam Codecraft",
+    "startDate": " 08 -2023 --",
+    "endDate": "09 -2023 ",
+    "location": "Remote",
+    "experiences": [
+      "Task 1 - Random password generator - Developed a powerful Random password for enhanced online protection. With this tool, users can easily generate and use complex passwords tailored to the specific requirements.",
+      "Task 2 - NUMBER GUESSING - In this task we create a program in which the computer selects a number at random from 1 to 10, 1 to 100, or any other range. After that, provide consumers a clue to help them when the user guesses incorrectly."
+    ],
+    "imageSrc": "company/Empreyam.jpg"
+  }
+  ,
+  
+  {
+    "id": 2,
+    "role": "Zidio Development",
+    "organisation": "Empreyam Codecraft",
+    "startDate": " 20-June-2025 --",
+    "endDate": "Present",
+    "location": "Remote",
+    "experiences": [
+      "Web Development Internship"
+      
+    ],
+    "imageSrc": "company/zidio.png"
+  }
+]
+  
